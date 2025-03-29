@@ -153,15 +153,15 @@ p {
 }
 
 .formulario {
-    background-color: #2e2c2c;
+    background-color: #af3d3d;
     padding: 2rem;
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgb(245, 171, 171);
     font-weight: bold;
 }
 
 .formulario button {
-    background-color: #ff0000;
+    background-color: #741212;
     border: none;
     font-weight: bold;
 }
